@@ -1,0 +1,22 @@
+{
+  "name": "aoc2021",
+  "version": "1.0.0",
+  "description": "Advent of code, by Tristan Weij",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TristanWeij/AoC2021.git"
+  },
+  "author": "Tristan Weij",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TristanWeij/AoC2021/issues"
+  },
+  "homepage": "https://github.com/TristanWeij/AoC2021#readme",
+  "devDependencies": {
+    "eslint": "^8.3.0"
+  }
+}
